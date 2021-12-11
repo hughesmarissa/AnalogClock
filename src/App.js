@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <header className="App-header">Analog Clock</header>
         <div className="clock">
                 <div className="hand hour"></div>
                 <div className="hand minute"></div>
@@ -22,6 +21,7 @@ function App() {
                 <div className="number number11">11</div>
                 <div className="number number12">12</div>
         </div>
+        <footer className="App-footer">Analog Clock</footer>
     </div>
   );
 }
