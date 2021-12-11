@@ -10,9 +10,11 @@ body {
 }
 
 .clock {
-    width: 667px;
+    width: 500px;
     height: 500px;
     background-image: url(./assets/images/MOAButah.jpg);
     background-position: top;
     background-repeat: no-repeat;
+    border-radius: 50%;
+    border: 10px solid rgb(187, 112, 68);
 }
