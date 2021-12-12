@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AnalogClock/static/css/main.7c469bbd.chunk.css",
+    "main.js": "/AnalogClock/static/js/main.3f064e64.chunk.js",
+    "main.js.map": "/AnalogClock/static/js/main.3f064e64.chunk.js.map",
+    "runtime-main.js": "/AnalogClock/static/js/runtime-main.94871060.js",
+    "runtime-main.js.map": "/AnalogClock/static/js/runtime-main.94871060.js.map",
+    "static/js/2.08e1cdfb.chunk.js": "/AnalogClock/static/js/2.08e1cdfb.chunk.js",
+    "static/js/2.08e1cdfb.chunk.js.map": "/AnalogClock/static/js/2.08e1cdfb.chunk.js.map",
+    "static/js/3.c5543c4e.chunk.js": "/AnalogClock/static/js/3.c5543c4e.chunk.js",
+    "static/js/3.c5543c4e.chunk.js.map": "/AnalogClock/static/js/3.c5543c4e.chunk.js.map",
+    "index.html": "/AnalogClock/index.html",
+    "static/css/main.7c469bbd.chunk.css.map": "/AnalogClock/static/css/main.7c469bbd.chunk.css.map",
+    "static/js/2.08e1cdfb.chunk.js.LICENSE.txt": "/AnalogClock/static/js/2.08e1cdfb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/AnalogClock/static/media/MOAButah.bb2231fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94871060.js",
+    "static/js/2.08e1cdfb.chunk.js",
+    "static/css/main.7c469bbd.chunk.css",
+    "static/js/main.3f064e64.chunk.js"
+  ]
+}
