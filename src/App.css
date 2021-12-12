@@ -26,6 +26,7 @@ body {
     background-repeat: no-repeat;
     border-radius: 50%;
     border: 10px solid rgb(187, 112, 68);
+    box-shadow:  0 24px 28px 0 rgba(187, 112, 68, 0.2), 0 6px 200px 200px rgba(0, 0, 0, 0.20);
     position: relative;
 }
 
@@ -36,6 +37,7 @@ body {
     height: 100%;
     text-align: center;
     transform: rotate(var(--rotation));
+    font-size: .60rem;
 }
 
 .clock .number1 {--rotation: 30deg;}
