@@ -1,21 +1,15 @@
 import React from 'react';
 import './App.css';
+import ClockHands from './ClockHands';
 
-function setClock() {
-    setInterval(setClock, 1000);
-    const currentDate = new Date();
-    const secondsRatio = currentDate.getSeconds() / 60;
-    const minutesRatio = (secondsRatio + currentDate.getMinutes()) / 60;
-    const hoursRatio = (minutesRatio + currentDate.getHours()) / 12;
-}
 
 function App() {
   return (
     <div className="App">
         <div className="clock">
-                <div className="hand hour"></div>
-                <div className="hand minute"></div>
-                <div className="hand second"></div>
+                <div className="hand hour" data-hour-hand></div>
+                <div className="hand minute" data-minute-hand></div>
+                <div className="hand second" data-second-hand></div>
                 <div className="number number1">1</div>
                 <div className="number number2">2</div>
                 <div className="number number3">3</div>
